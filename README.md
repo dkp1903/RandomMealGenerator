@@ -1,2 +1,2 @@
 > ### RandomMealGenerator
-> Credits : (https://www.florin-pop.com/)[Florin-Pop]
+> Credits : [Florin-Pop](https://www.florin-pop.com/)
